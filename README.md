@@ -1,3 +1,36 @@
+Boa noite gente, tudo bem desse lado dai? Eu espero que sim!
+
+Estou no mundo da programação tem muito pouco tempo, e cada vez mais encantada com as possibilidades que esse mundo poderá me proporcionar! (E já tem me proporcionado!)
+
+
+
+Tenho estudado, tenho treinado e claro, como um bom Jr, estou a procura do meu primeiro sim!
+
+
+
+Essa semana estive participando da Semana React Js, do Matheus, uma pessoa incrível que conheci através do Youtube, e acompanhei e construi essa página utilizando React Js, com meus links das minhas redes sociais.
+
+
+
+Foi suadeira viu? Não foi fácil não, mas enche meu coração de orgulho!
+
+
+
+Deixo aqui meu agradecimento a essas pessoas que auxiliam quem está iniciando na área e que não nos deixa desistir! Sem a ajuda de vocês isso não seria possível! Existe nessas redes muito conteúdo bacana e gratuito pra construir várias aplicações!! E claro, além de te fazer treinar o fortalecer seus conhecimentos iniciais!
+
+
+
+Estou muito contente em ter conseguido!
+
+
+
+Deixo aqui meu link pra vocês irem lá dar uma espiadinha!
+
+😍 📚 👩‍💻 
+
+https://meuslinkscamilaleutz.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
